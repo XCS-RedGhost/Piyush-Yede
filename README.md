@@ -32,7 +32,26 @@ Database Expert (PostgreSQL, MySQL, MongoDB) | ☁️ Cloud & Deployment (AWS, V
 ![Automation](https://img.shields.io/badge/Automation-Systems-purple)
 ![LMS](https://img.shields.io/badge/LMS-Development-blueviolet)
 
+## 🧠 OSINT & Cyber Tools Stack
 
+![Maltego](https://img.shields.io/badge/Maltego-OSINT-blue)
+![Shodan](https://img.shields.io/badge/Shodan-Search-red)
+![theHarvester](https://img.shields.io/badge/theHarvester-Intel-green)
+![Amass](https://img.shields.io/badge/Amass-Recon-orange)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-Framework-blue)
+![SpiderFoot](https://img.shields.io/badge/SpiderFoot-Automation-purple)
+![Nmap](https://img.shields.io/badge/Nmap-Scanner-blue)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network-blue)
+![Burp Suite](https://img.shields.io/badge/Burp-Suite-orange)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-red)
+
+## ⚔️ Tech & Environment
+
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-black?logo=linux)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 
 
 
