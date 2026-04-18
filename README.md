@@ -49,7 +49,6 @@ Database Expert (PostgreSQL, MySQL, MongoDB) | ☁️ Cloud & Deployment (AWS, V
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmV6YzE1dHh0c28xOHcwOXkweW41aWN5bnB0bjhydnp3NGJvYWs5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2i7jspnRBYgg6v4Oki/giphy.gif" width="800">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 
 
