@@ -1,9 +1,4 @@
-1. Banner / GIF
-Full Stack Developer (HTML5, CSS3, JavaScript, React.js, Next.js)
-Backend Engineer (Node.js, Express.js, Django, FastAPI)
-Database Expert (PostgreSQL, MySQL, MongoDB)
-☁️ Cloud & Deployment (AWS, Vercel, Production Systems)
-📚 LMS & Automation Systems Developer
+
 
 2. Name + About Me 👨‍💻
 # Piyush-Yede
