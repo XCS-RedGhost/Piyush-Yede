@@ -53,7 +53,6 @@ Database Expert (PostgreSQL, MySQL, MongoDB) | ☁️ Cloud & Deployment (AWS, V
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Expert;Digital+Forensics;Bug+Bounty+Hunter)
 
