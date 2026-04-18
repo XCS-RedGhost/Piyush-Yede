@@ -1,6 +1,3 @@
-
-
-2. Name + About Me 👨‍💻
 # Piyush-Yede
 Co-founder driving cybersecurity innovation at X Cyber Squad. 
 Focused on digital forensics, OSINT, and threat intelligence. 
